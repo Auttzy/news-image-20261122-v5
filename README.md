@@ -1,8 +1,8 @@
 # The Sunday Ledger — 22 November 2026
 
-[![make.fun rank](https://make.fun/bounty/news-image-20261122/badge/rank/Auttzy/news-image-20261122-v5)](https://make.fun/bounty/news-image-20261122)
-[![make.fun reward](https://make.fun/bounty/news-image-20261122/badge/reward/Auttzy/news-image-20261122-v5)](https://make.fun/bounty/news-image-20261122)
-[![make.fun entry](https://make.fun/bounty/news-image-20261122/badge/entry/Auttzy/news-image-20261122-v5)](https://make.fun/bounty/news-image-20261122)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/Auttzy/news-image-20261122-v5/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/Auttzy/news-image-20261122-v5/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 Entry for the make.fun bounty [“Sum up 22 November's world news in one image”](https://make.fun/bounty/news-image-20261122).
 
